@@ -1,0 +1,4 @@
+C:\humana\sourcecode\branches\JobService\_MainLine\Src\Libraries\JobService.Common\bin\Debug\Humana.H1.JobService.Common.dll
+C:\humana\sourcecode\branches\JobService\_MainLine\Src\Libraries\JobService.Common\bin\Debug\Humana.H1.JobService.Common.pdb
+C:\humana\sourcecode\branches\JobService\_MainLine\Src\Libraries\JobService.Common\obj\Debug\Humana.H1.JobService.Common.dll
+C:\humana\sourcecode\branches\JobService\_MainLine\Src\Libraries\JobService.Common\obj\Debug\Humana.H1.JobService.Common.pdb
